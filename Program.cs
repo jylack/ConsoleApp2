@@ -39,6 +39,8 @@ namespace ConsoleApp2
 
             Console.WriteLine("음 흠?");
             Console.WriteLine("????");
+            Console.WriteLine("????");
+            Console.WriteLine("????");
 
             List<example> exampleList = new List<example>();
             exampleList.Add(new example { a = 1 });
