@@ -38,6 +38,8 @@ namespace ConsoleApp2
 
 
             Console.WriteLine("음 흠?");
+            Console.WriteLine("음 흠?");
+            Console.WriteLine("음 흠?");
             Console.WriteLine("????");
 
             List<example> exampleList = new List<example>();
