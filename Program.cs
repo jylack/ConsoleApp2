@@ -52,6 +52,8 @@ namespace ConsoleApp2
             Console.WriteLine(example.a);
 
             Console.WriteLine("아니 이게된다고고ㅗㅗㅗㅗㅗㅗㅗㅗㅗㅗㅗㅗㅗㅗㅗㅗㅗㅗㅗㅗㅗㅗㅗㅗㅗㅗ");
+
+            Console.WriteLine("핳핳핳하핳하하하하핳");
         }
     }
 
