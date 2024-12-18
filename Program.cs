@@ -36,7 +36,25 @@ namespace ConsoleApp2
             foreach (int i in ints2)
                 Console.WriteLine(i);
 
-
+            Console.WriteLine("ㄱㄴ개발중");
+            Console.WriteLine("음 흠?");
+            Console.WriteLine("음 흠?");
+            Console.WriteLine("음 흠?");
+            Console.WriteLine("음 흠?");
+            Console.WriteLine("음 흠?");
+            Console.WriteLine("음 흠?");
+            Console.WriteLine("음 흠?");
+            Console.WriteLine("음 흠?");
+            Console.WriteLine("음 흠?");
+            Console.WriteLine("음 흠?");
+            Console.WriteLine("음 흠?");
+            Console.WriteLine("음 흠?");
+            Console.WriteLine("음 흠?");
+            Console.WriteLine("음 흠?");
+            Console.WriteLine("음 흠?");
+            Console.WriteLine("음 흠?");
+            Console.WriteLine("음 흠?");
+            Console.WriteLine("음 흠?");
             Console.WriteLine("음 흠?");
             Console.WriteLine("????");
             Console.WriteLine("????");
